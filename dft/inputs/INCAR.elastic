@@ -1,0 +1,15 @@
+SYSTEM  = ZrRu_BCC_SQS_strained_cell
+PREC    = Accurate
+ENCUT   = 320
+EDIFF   = 1E-6
+IBRION  = -1         # static
+ISIF    = 3          # full stress tensor
+NSW     = 0
+ISMEAR  = 1
+SIGMA   = 0.1
+ALGO    = Fast
+LASPH   = .TRUE.
+ADDGRID = .TRUE.
+LREAL   = .FALSE.
+ISYM    = 0          # no symmetrization of the stress for SQS cells
+NELM    = 120

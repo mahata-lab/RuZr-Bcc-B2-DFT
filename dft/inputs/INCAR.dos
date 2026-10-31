@@ -1,0 +1,15 @@
+SYSTEM  = ZrRu_BCC_SQS_DOS
+PREC    = Normal
+ENCUT   = 450
+ALGO    = Fast
+LREAL   = Auto
+EDIFF   = 1E-5
+ISTART  = 0
+ICHARG  = 2
+IBRION  = -1
+NSW     = 0
+ISMEAR  = -5         # tetrahedron method with Bloechl corrections
+LORBIT  = 11
+NEDOS   = 2000
+LWAVE   = .FALSE.
+LCHARG  = .TRUE.

@@ -1,0 +1,9 @@
+C' vs VEC (near-BCC configurations): slope 32.4449 +- 5.9300, r 0.877, p 3.95e-04, n 11
+C' vs VEC (near-BCC composition means): slope 32.7807 +- 6.2668, r 0.880, p 7.92e-04, n 10
+G/B vs VEC (near-BCC): slope 0.0891 +- 0.0462, r 0.540, p 8.62e-02, n 11
+N(EF) vs VEC (near-BCC): slope -0.8004 +- 0.2201, r -0.789, p 6.63e-03, n 10
+C' vs N(EF) (near-BCC): slope -36.2335 +- 4.8722, r -0.935, p 7.36e-05, n 10
+G/B vs N(EF) (all with DOS): slope -0.2271 +- 0.0271, r -0.930, p 4.18e-06, n 13
+Cauchy vs G/B (all): slope -170.4635 +- 17.4428, r -0.943, p 4.59e-07, n 14
+Zr local environment: Ru-free minus Ru-coordinated displacement > 0 in 14 of 14 configurations, sign test p 1.2e-04, mean 0.062 A
+random-field f_omega: mean 0.0263, p99 0.0750, p99.9 0.1089

@@ -1,0 +1,14 @@
+SYSTEM  = ZrRu_BCC_SQS_relaxation
+PREC    = Normal
+ENCUT   = 320
+LREAL   = Auto
+ALGO    = Fast
+LASPH   = .FALSE.
+EDIFF   = 1E-4
+LMAXMIX = 4
+IBRION  = 2          # conjugate gradient
+ISIF    = 3          # positions, cell shape and volume
+NSW     = 150
+EDIFFG  = -0.02      # force criterion (eV/A)
+ISMEAR  = 1          # Methfessel-Paxton, first order
+SIGMA   = 0.2
